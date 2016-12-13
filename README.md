@@ -5,7 +5,7 @@ Helper functions for Javascript
 - [isDefined](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isdefined)
 - [isEmpty](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isempty)
 - [isFloat](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isFloat)
-- [isFunc](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isfunc)
+- [isCallback](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.iscallback)
 - [isInt](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isint)
 - [isNull](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isnull)
 - [isNumber](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isnumber)
