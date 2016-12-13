@@ -1,6 +1,6 @@
 Helper functions for Javascript
 ======
-- [hjs.each](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.each)
+- [hjs.foreach](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.foreach)
 - [isArray](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isArray)
 - [isDefined](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isdefined)
 - [isEmpty](https://github.com/olaferlandsen/Helper-function-for-Javascript/wiki/hjs.isempty)
