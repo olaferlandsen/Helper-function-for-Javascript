@@ -19,14 +19,16 @@ Helper functions for Javascript
 ```html
 <html>
     <head>
-        <title></title>
+        <title>HJS</title>
         <script src="hjs.min.js"></script>
         <script>
-        var a = function () {};
-        console.log ('a is a function?', hjs.isFunc(a));
+        var fn = hjs.isFunction(function() {
+        });
+        
+        console.log ('var fn is a function?', fn) 
         </script>
     </head>
     <body>
     </body>
-    </html>
+</html>
 ```
