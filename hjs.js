@@ -122,5 +122,23 @@
     /**
     *
     */
+    hjs.shuffle = function (value) {
+        let counter = value.length;
+        // While there are elements in the array
+        while (counter > 0) {
+            // Pick a random index
+            let index = Math.floor(Math.random() * counter);
+            // Decrease counter by 1
+            counter--;
+            // And swap the last element with it
+            let temp = value[counter];
+            value[counter] = value[index];
+            value[index] = temp;
+        }
+        return value;
+    };
+    /**
+    *
+    */
     window.hjs = hjs;
 }.call(window))
